@@ -1,0 +1,15 @@
+D:\Project\Graphic Land\Graphic Land\bin\Debug\Graphic Land.exe.config
+D:\Project\Graphic Land\Graphic Land\bin\Debug\Graphic Land.exe
+D:\Project\Graphic Land\Graphic Land\bin\Debug\Graphic Land.pdb
+D:\Project\Graphic Land\Graphic Land\bin\Debug\Graphic Land.xml
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic_Land.frmMain.resources
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic_Land.Resources.resources
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic Land.exe.licenses
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic Land.exe
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic Land.xml
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic Land.pdb
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\GenerateResource.read.369.tlog
+D:\Project\Graphic Land\Graphic Land\obj\x86\Debug\Graphic_Land.frmTrsOrder.resources
