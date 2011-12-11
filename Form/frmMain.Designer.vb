@@ -67,7 +67,7 @@ Partial Class frmMain
         Me.RibbonControl.Pages.AddRange(New DevExpress.XtraBars.Ribbon.RibbonPage() {Me.TabTrs, Me.TabMaster})
         Me.RibbonControl.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.riicSkin, Me.ListSkin})
         Me.RibbonControl.SelectedPage = Me.TabTrs
-        Me.RibbonControl.Size = New System.Drawing.Size(957, 145)
+        Me.RibbonControl.Size = New System.Drawing.Size(950, 145)
         Me.RibbonControl.StatusBar = Me.RibbonStatusBar
         '
         'mnuOrder
@@ -177,7 +177,7 @@ Partial Class frmMain
         Me.RibbonStatusBar.Location = New System.Drawing.Point(0, 568)
         Me.RibbonStatusBar.Name = "RibbonStatusBar"
         Me.RibbonStatusBar.Ribbon = Me.RibbonControl
-        Me.RibbonStatusBar.Size = New System.Drawing.Size(957, 31)
+        Me.RibbonStatusBar.Size = New System.Drawing.Size(950, 31)
         '
         'RepositoryItemPictureEdit1
         '
@@ -198,10 +198,11 @@ Partial Class frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(957, 599)
+        Me.ClientSize = New System.Drawing.Size(950, 599)
         Me.Controls.Add(Me.RibbonStatusBar)
         Me.Controls.Add(Me.RibbonControl)
         Me.IsMdiContainer = True
+        Me.MinimumSize = New System.Drawing.Size(960, 600)
         Me.Name = "frmMain"
         Me.Ribbon = Me.RibbonControl
         Me.StatusBar = Me.RibbonStatusBar
